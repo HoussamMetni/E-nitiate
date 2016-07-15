@@ -7,9 +7,9 @@ p.pair{
 }
 p{ 
 	font-size: 24px;
-	color:blue;
+	color:red;
 }
-p#unique { color: red;
+p#unique { color: blue;
 	   font-size: 48px;
 	  }
 p#awesome { color: orange;
