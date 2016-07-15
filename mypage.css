@@ -1,0 +1,21 @@
+
+
+p.pair{ 
+	font-size: 72px;
+	color: yellow;
+	font-family: verdana;
+}
+p{ 
+	font-size: 24px;
+	color:blue;
+}
+p#unique { color: red;
+	   font-size: 48px;
+	  }
+p#awesome { color: orange;
+	   font-size: 48px;
+	  }
+body {
+    background-color: lightblue;
+}
+
